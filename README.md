@@ -1,5 +1,14 @@
 # 🚢 Titanic Passenger Dashboard
 
+**Developed by:** **Yanaguntikar Meesal**
+
+
+**📧 Email:** **[yanaguntikarm@gmail.com](mailto:yanaguntikarm@gmail.com)**
+
+
+**🌐 Live Project:** [Titanic Passenger Dashboard](https://titanic-passenger-dashboard-qqvkvqbq6kyflkzabvptfd.streamlit.app/)
+
+
 An interactive **Titanic Passenger Data Analysis Dashboard** built with **Python, Streamlit, Pandas, NumPy, and Plotly**.
 
 The dashboard provides an interactive way to explore Titanic passenger information, survival patterns, passenger classes, age distribution, fares, embarkation ports, and survival rates.
